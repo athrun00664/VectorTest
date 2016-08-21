@@ -1,0 +1,40 @@
+TASK com.imooc.vectortest id=420
+  ACTIVITY com.imooc.vectortest/.MainActivity ebe099c pid=17655
+    Local Activity 271f5fc State:
+      mResumed=true mStopped=false mFinished=false
+      mChangingConfigurations=false
+      mCurrentConfig={1.0 460mcc1mnc zh_CN ldltr sw360dp w360dp h620dp 480dpi nrml long port finger -keyb/v/h -nav/h s.33 themeChanged=0 themeChangedFlags=0}
+      mLoadersStarted=true
+      FragmentManager misc state:
+        mHost=android.app.Activity$HostCallbacks@60b485
+        mContainer=android.app.Activity$HostCallbacks@60b485
+        mCurState=5 mStateSaved=false mDestroyed=false
+    ViewRoot:
+      mAdded=true mRemoved=false
+      mConsumeBatchedInputScheduled=false
+      mConsumeBatchedInputImmediatelyScheduled=false
+      mPendingInputEventCount=0
+      mProcessInputEventsScheduled=false
+      mTraversalScheduled=false
+      android.view.ViewRootImpl$NativePreImeInputStage: mQueueLength=0
+      android.view.ViewRootImpl$ImeInputStage: mQueueLength=0
+      android.view.ViewRootImpl$NativePostImeInputStage: mQueueLength=0
+    Choreographer:
+      mFrameScheduled=false
+      mLastFrameTime=140970341 (16198 ms ago)
+    View Hierarchy:
+      com.android.internal.policy.PhoneWindow$DecorView{40b92da V.E...... R....... 0,0-1080,1920}
+        com.android.internal.widget.ActionBarOverlayLayout{e48230b V.E...... ........ 0,0-1080,1920 #10203bd android:id/decor_content_parent}
+          android.widget.FrameLayout{4e675e8 V.E...... ........ 0,228-1080,1920 #1020002 android:id/content}
+            android.widget.RelativeLayout{77d1401 V.E...... ........ 0,0-1080,1692}
+              android.widget.ImageView{62002a6 V.ED..C.. ........ 48,48-528,138 #7f090000 app:id/image}
+              android.widget.ImageView{ed3e4e7 V.ED..C.. ........ 240,48-840,444 #7f090001 app:id/image2}
+              android.widget.ImageView{1a10894 V.ED..C.. ........ 240,444-1032,1644 #7f090002 app:id/image3}
+          com.android.internal.widget.ActionBarContainer{8a5ef3d V.ED..... ........ 0,60-1080,228 #10203be android:id/action_bar_container}
+            android.widget.Toolbar{3b9a332 V.E...... ........ 0,0-1080,168 #10203bf android:id/action_bar}
+              android.widget.TextView{6fe883 V.ED..... ........ 48,43-339,124}
+              android.widget.ActionMenuView{d01a00 V.E...... ......ID 1080,0-1080,168}
+            com.android.internal.widget.ActionBarContextView{c874239 G.E...... ......I. 0,0-0,0 #10203c0 android:id/action_context_bar}
+        android.view.View{cdac07e V.ED..... ........ 0,0-1080,60 #102002f android:id/statusBarBackground}
+    Looper (main, tid 1) {f3e89df}
+      (Total messages: 0, polling=false, quitting=false)
